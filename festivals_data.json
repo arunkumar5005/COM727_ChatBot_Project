@@ -1,0 +1,152 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening"],
+        "responses": ["Hello! How can I help you learn about Indian culture?", "Namaste! Ask me anything about India."]
+      },
+      {
+        "tag": "indian_culture_general",
+        "patterns": [
+          "What is special about Indian culture?",
+          "Tell me about Indian culture",
+          "Why is Indian culture unique?",
+          "Describe Indian traditions",
+          "What makes Indian culture different?"
+        ],
+        "responses": [
+          "Indian culture is known for its diversity, rich traditions, spirituality, and colorful festivals. It values family, respect, and hospitality.",
+          "With over 1.4 billion people, India has a rich heritage of languages, religions, food, clothing, and rituals across different regions."
+        ]
+      },
+      {
+        "tag": "diwali",
+        "patterns": [
+          "Tell me about Diwali",
+          "What is Diwali?",
+          "Why do we celebrate Diwali?",
+          "How is Diwali celebrated?",
+          "What is the significance of Diwali?"
+        ],
+        "responses": [
+          "Diwali is the Hindu festival of lights, celebrated with lamps, sweets, and fireworks.",
+          "Diwali symbolizes the victory of light over darkness and good over evil."
+        ]
+      },
+      {
+        "tag": "holi",
+        "patterns": [
+          "Tell me about Holi",
+          "What is Holi?",
+          "Why do we celebrate Holi?",
+          "How is Holi celebrated?",
+          "What happens on Holi?"
+        ],
+        "responses": [
+          "Holi is the festival of colors, celebrated with colored powders and water.",
+          "Holi marks the arrival of spring and the victory of good over evil."
+        ]
+      },
+      {
+        "tag": "eid",
+        "patterns": [
+          "Tell me about Eid",
+          "What is Eid?",
+          "Why do we celebrate Eid?",
+          "How is Eid celebrated in India?"
+        ],
+        "responses": [
+          "Eid is an important Muslim festival, celebrated after Ramadan.",
+          "Eid is a time for prayers, feasting, and giving to charity."
+        ]
+      },
+      {
+        "tag": "christmas",
+        "patterns": [
+          "Tell me about Christmas",
+          "What is Christmas?",
+          "Why do we celebrate Christmas?",
+          "Do Indians celebrate Christmas?"
+        ],
+        "responses": [
+          "Christmas celebrates the birth of Jesus Christ and is marked by decorations and feasts.",
+          "It is a festival of joy, love, and giving."
+        ]
+      },
+      {
+        "tag": "indian_food",
+        "patterns": [
+          "Tell me about Indian food",
+          "What are popular Indian dishes?",
+          "Why is Indian food spicy?",
+          "What do Indians eat?",
+          "What is traditional Indian cuisine?"
+        ],
+        "responses": [
+          "Indian food is rich in spices and flavors. Popular dishes include biryani, samosas, dosa, butter chicken, and dal.",
+          "Food varies by region: the north prefers wheat and curries, while the south enjoys rice, coconut, and tangy flavors."
+        ]
+      },
+      {
+        "tag": "indian_clothing",
+        "patterns": [
+          "Tell me about Indian clothing",
+          "What do people wear in India?",
+          "Describe traditional Indian dress",
+          "What is a sari?",
+          "What is a kurta?"
+        ],
+        "responses": [
+          "Traditional Indian clothing includes the sari for women and kurta-pajama for men. Clothing varies by region and occasion.",
+          "Indians often wear colorful clothes, especially during festivals and ceremonies."
+        ]
+      },
+      {
+        "tag": "farewell",
+        "patterns": ["Bye", "Goodbye", "See you", "Talk to you later"],
+        "responses": ["Goodbye! Have a great day!", "Namaste! Hope you learned something new."]
+      },{
+        "tag": "indian_dance",
+        "patterns": [
+          "Tell me about Indian dance",
+          "What are traditional Indian dance forms?",
+          "What is Bharatanatyam?",
+          "What is Kathak?",
+          "Name some classical Indian dances"
+        ],
+        "responses": [
+          "India has many classical dance forms like Bharatanatyam, Kathak, Kuchipudi, Odissi, and Kathakali. Each originates from a different region.",
+          "Indian dance forms often tell stories through hand gestures (mudras), facial expressions, and rhythmic movements."
+        ]
+      },
+      {
+        "tag": "indian_music",
+        "patterns": [
+          "Tell me about Indian music",
+          "What is classical Indian music?",
+          "What is Hindustani music?",
+          "What is Carnatic music?",
+          "What are traditional Indian instruments?"
+        ],
+        "responses": [
+          "Indian music is broadly divided into Hindustani (North Indian) and Carnatic (South Indian) classical traditions.",
+          "Instruments like sitar, tabla, veena, and bansuri are important in Indian classical music."
+        ]
+      },
+      {
+        "tag": "indian_religion",
+        "patterns": [
+          "Tell me about religions in India",
+          "What are the major religions in India?",
+          "Is India a Hindu country?",
+          "What religions are practiced in India?",
+          "Why is India religiously diverse?"
+        ],
+        "responses": [
+          "India is home to many religions including Hinduism, Islam, Christianity, Sikhism, Buddhism, and Jainism.",
+          "Religious harmony and diversity are key parts of Indian culture, with festivals and rituals celebrated across faiths."
+        ]
+      }
+    ]
+  }
+  
